@@ -1,4 +1,3 @@
-# hello-world
 
   Hello there, today i am starting my personal journey in to the world of coding. 
   I'm curentlly 18 and this week i decided that i'll dedicate my free time for the pursue
