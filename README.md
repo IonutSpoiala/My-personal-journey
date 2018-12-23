@@ -6,12 +6,13 @@ of joining and helping te coding comunity.
 it was a subject that fascinated me since i was a kid. I would also like to get some 
 insights in mobile developement, but it will be a long journey until then.
 
-  Tf you like to give me some advice, share something or you have any project on witch 
+  If you would like to give me some advice, share something or you have any project on witch 
 you may have some need for a creative mind... give me an email and i'll be glad to get in 
-touch with you. Experience is something verry valuable that can't be replaced by anythng,
+touch with you. Experience is something verry valuable that can't be replaced by anything,
 so i learned to be in constant pursue or it. 
   Curentlly i have some "experience", in Python, Ruby, CSS, Javascrip, C#, Java and Kotlin,
- but nothing more than just the basics. And ight now...I'm looking forward to learn more. 
+ but nothing more than just some basics in order to solve some basic math problems. 
+ Right now...I'm looking forward to learn more. 
 
   My email : spoialaionut@hotmail.com
 
