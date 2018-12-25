@@ -1,0 +1,16 @@
+    Merry Christmas people. Tomorow is the first day of Christmas.......and i'almoust
+forgot to write this day's entry here. Well doday was my first introductory day in 
+penetration testing. And i have to say, it was great. I have not instaled Kali linux 
+in my pc, becouse i id't want a dual boot partition at the moment. Instead, i instaled 
+a little Linux distro in Android. No not a full distro. A small one with a few commands,
+called Termux. The good thing is that even if this distro doesn't officialy suport any 
+other repositories....you can still install them manually from git and well....it's 
+kind of great. So, for now i have a fully functional Linux distro with Nmap and Metasploit
+installed, and working well. 
+    I tried to install Kali Nethunter but sadlly i did't succeedee so that's how i actually
+got with Termux. My phone it's not suported, since i have an old Note 3, so i had to 
+improvise. Anyway...in the next few days i may be able to learn more. 
+
+    Right now i discovered a site Called OverTheWire that trains you in penetration testing
+and also another one called BlackBox. In the next few days, i think i'll stick with OverTheWire
+and a bit more web design. For now, See you later.
